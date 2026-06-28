@@ -25,3 +25,17 @@ Customer Segmentation and Product Recommendation System
 ```bash
 pip install -r requirements.txt
 streamlit run "Shopper Spectrum App.py"
+
+
+---
+
+# Step 5: Push Again
+
+In VS Code terminal:
+
+```bash
+git add .
+
+git commit -m "Added requirements and project structure"
+
+git push
