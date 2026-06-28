@@ -1,0 +1,27 @@
+# Shopper Spectrum
+
+Customer Segmentation and Product Recommendation System
+
+## Features
+
+- RFM Analysis
+- KMeans Clustering
+- Customer Segmentation
+- Item-Based Collaborative Filtering
+- Product Recommendation
+- Streamlit Dashboard
+
+## Technologies
+
+- Python
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-Learn
+- Joblib
+
+## Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run "Shopper Spectrum App.py"
